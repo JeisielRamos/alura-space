@@ -14,21 +14,21 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={gitlabLogo} alt="ícone do gitlab"  height="30"/>
+          <img src={gitlabLogo} alt="ícone do gitlab"  height="20"/>
         </a>
         <a
           href="https://github.com/JeisielRamos"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={gitHubLogo} alt="ícone do github" height="30" />
+          <img src={gitHubLogo} alt="ícone do github" height="20" />
         </a>
         <a
           href="https://www.linkedin.com/in/jeisiel-ramos-a76953108/"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={linkedinLogo} alt="ícone do linkedin" height="30"/>
+          <img src={linkedinLogo} alt="ícone do linkedin" height="20"/>
         </a>
       </div>
       <p>Desenvolvido por JeisielRamos@2023.</p>

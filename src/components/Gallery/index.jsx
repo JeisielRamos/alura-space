@@ -1,7 +1,7 @@
 import React from 'react'
-import Tags from '../Tags'
+import Tags from 'components/Tags'
 import styles from './gallery.module.scss'
-import Cards from './Cards'
+import Cards from 'components/Gallery/Cards'
 import photos from './photos.json'
 
 export default function Gallery() {
